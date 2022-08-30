@@ -21,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/ReeceM/11ty-simple-template/issues"
   },
-  "homepage": "https://github.com/ReeceM/11ty-simple-template#readme"
+  "homepage": "https://github.com/ReeceM/11ty-simple-template#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.2",
+    "@11ty/eleventy-img": "^2.0.1",
+    "npm-run-all": "^4.1.5",
+    "rimraf": "^3.0.2"
+  }
 }
